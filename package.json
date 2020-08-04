@@ -19,7 +19,6 @@
     "copy-bleeding-edge": "cp -R projects/ngx-extended-pdf-viewer/src/bleeding-edge dist/ngx-extended-pdf-viewer/bleeding-edge",
     "copy-changelog": "cp projects/ngx-extended-pdf-viewer/changelog.md dist/ngx-extended-pdf-viewer/changelog.md"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^7.2.16",
     "@angular/cdk": "^7.3.7",
